@@ -1,0 +1,15 @@
+D:\Documentos\Code\c_sharp\bin\Debug\net6.0\c_sharp.exe
+D:\Documentos\Code\c_sharp\bin\Debug\net6.0\c_sharp.deps.json
+D:\Documentos\Code\c_sharp\bin\Debug\net6.0\c_sharp.runtimeconfig.json
+D:\Documentos\Code\c_sharp\bin\Debug\net6.0\c_sharp.dll
+D:\Documentos\Code\c_sharp\bin\Debug\net6.0\ref\c_sharp.dll
+D:\Documentos\Code\c_sharp\bin\Debug\net6.0\c_sharp.pdb
+D:\Documentos\Code\c_sharp\obj\Debug\net6.0\c_sharp.csproj.AssemblyReference.cache
+D:\Documentos\Code\c_sharp\obj\Debug\net6.0\c_sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Code\c_sharp\obj\Debug\net6.0\c_sharp.AssemblyInfoInputs.cache
+D:\Documentos\Code\c_sharp\obj\Debug\net6.0\c_sharp.AssemblyInfo.cs
+D:\Documentos\Code\c_sharp\obj\Debug\net6.0\c_sharp.csproj.CoreCompileInputs.cache
+D:\Documentos\Code\c_sharp\obj\Debug\net6.0\c_sharp.dll
+D:\Documentos\Code\c_sharp\obj\Debug\net6.0\ref\c_sharp.dll
+D:\Documentos\Code\c_sharp\obj\Debug\net6.0\c_sharp.pdb
+D:\Documentos\Code\c_sharp\obj\Debug\net6.0\c_sharp.genruntimeconfig.cache
