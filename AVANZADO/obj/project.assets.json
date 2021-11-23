@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\Code\\Unidad_3\\Unidad_3\\c_sharp\\c_sharp.csproj",
-      "projectName": "c_sharp",
-      "projectPath": "D:\\Documentos\\Code\\Unidad_3\\Unidad_3\\c_sharp\\c_sharp.csproj",
+      "projectUniqueName": "D:\\Documentos\\Code\\Unidad_3\\Unidad_3\\AVANZADO\\AVANZADO.csproj",
+      "projectName": "AVANZADO",
+      "projectPath": "D:\\Documentos\\Code\\Unidad_3\\Unidad_3\\AVANZADO\\AVANZADO.csproj",
       "packagesPath": "C:\\Users\\jose5\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos\\Code\\Unidad_3\\Unidad_3\\c_sharp\\obj\\",
+      "outputPath": "D:\\Documentos\\Code\\Unidad_3\\Unidad_3\\AVANZADO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jose5\\AppData\\Roaming\\NuGet\\NuGet.Config"

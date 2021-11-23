@@ -1,0 +1,15 @@
+D:\Documentos\Code\Unidad_3\Unidad_3\AVANZADO\bin\Debug\net6.0\AVANZADO.exe
+D:\Documentos\Code\Unidad_3\Unidad_3\AVANZADO\bin\Debug\net6.0\AVANZADO.deps.json
+D:\Documentos\Code\Unidad_3\Unidad_3\AVANZADO\bin\Debug\net6.0\AVANZADO.runtimeconfig.json
+D:\Documentos\Code\Unidad_3\Unidad_3\AVANZADO\bin\Debug\net6.0\AVANZADO.dll
+D:\Documentos\Code\Unidad_3\Unidad_3\AVANZADO\bin\Debug\net6.0\ref\AVANZADO.dll
+D:\Documentos\Code\Unidad_3\Unidad_3\AVANZADO\bin\Debug\net6.0\AVANZADO.pdb
+D:\Documentos\Code\Unidad_3\Unidad_3\AVANZADO\obj\Debug\net6.0\AVANZADO.csproj.AssemblyReference.cache
+D:\Documentos\Code\Unidad_3\Unidad_3\AVANZADO\obj\Debug\net6.0\AVANZADO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Code\Unidad_3\Unidad_3\AVANZADO\obj\Debug\net6.0\AVANZADO.AssemblyInfoInputs.cache
+D:\Documentos\Code\Unidad_3\Unidad_3\AVANZADO\obj\Debug\net6.0\AVANZADO.AssemblyInfo.cs
+D:\Documentos\Code\Unidad_3\Unidad_3\AVANZADO\obj\Debug\net6.0\AVANZADO.csproj.CoreCompileInputs.cache
+D:\Documentos\Code\Unidad_3\Unidad_3\AVANZADO\obj\Debug\net6.0\AVANZADO.dll
+D:\Documentos\Code\Unidad_3\Unidad_3\AVANZADO\obj\Debug\net6.0\ref\AVANZADO.dll
+D:\Documentos\Code\Unidad_3\Unidad_3\AVANZADO\obj\Debug\net6.0\AVANZADO.pdb
+D:\Documentos\Code\Unidad_3\Unidad_3\AVANZADO\obj\Debug\net6.0\AVANZADO.genruntimeconfig.cache
