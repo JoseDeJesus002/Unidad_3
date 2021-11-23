@@ -1,0 +1,15 @@
+D:\Documentos\Code\Unidad_3\Unidad_3\New\bin\Debug\net6.0\New.exe
+D:\Documentos\Code\Unidad_3\Unidad_3\New\bin\Debug\net6.0\New.deps.json
+D:\Documentos\Code\Unidad_3\Unidad_3\New\bin\Debug\net6.0\New.runtimeconfig.json
+D:\Documentos\Code\Unidad_3\Unidad_3\New\bin\Debug\net6.0\New.dll
+D:\Documentos\Code\Unidad_3\Unidad_3\New\bin\Debug\net6.0\ref\New.dll
+D:\Documentos\Code\Unidad_3\Unidad_3\New\bin\Debug\net6.0\New.pdb
+D:\Documentos\Code\Unidad_3\Unidad_3\New\obj\Debug\net6.0\New.csproj.AssemblyReference.cache
+D:\Documentos\Code\Unidad_3\Unidad_3\New\obj\Debug\net6.0\New.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Code\Unidad_3\Unidad_3\New\obj\Debug\net6.0\New.AssemblyInfoInputs.cache
+D:\Documentos\Code\Unidad_3\Unidad_3\New\obj\Debug\net6.0\New.AssemblyInfo.cs
+D:\Documentos\Code\Unidad_3\Unidad_3\New\obj\Debug\net6.0\New.csproj.CoreCompileInputs.cache
+D:\Documentos\Code\Unidad_3\Unidad_3\New\obj\Debug\net6.0\New.dll
+D:\Documentos\Code\Unidad_3\Unidad_3\New\obj\Debug\net6.0\ref\New.dll
+D:\Documentos\Code\Unidad_3\Unidad_3\New\obj\Debug\net6.0\New.pdb
+D:\Documentos\Code\Unidad_3\Unidad_3\New\obj\Debug\net6.0\New.genruntimeconfig.cache

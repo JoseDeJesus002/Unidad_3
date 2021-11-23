@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\code\\Unidad_3\\Unidad_3\\AVANZADO\\AVANZADO.csproj": {}
+    "D:\\Documentos\\Code\\Unidad_3\\Unidad_3\\New\\New.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\code\\Unidad_3\\Unidad_3\\AVANZADO\\AVANZADO.csproj": {
+    "D:\\Documentos\\Code\\Unidad_3\\Unidad_3\\New\\New.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\code\\Unidad_3\\Unidad_3\\AVANZADO\\AVANZADO.csproj",
-        "projectName": "AVANZADO",
-        "projectPath": "D:\\Documentos\\code\\Unidad_3\\Unidad_3\\AVANZADO\\AVANZADO.csproj",
+        "projectUniqueName": "D:\\Documentos\\Code\\Unidad_3\\Unidad_3\\New\\New.csproj",
+        "projectName": "New",
+        "projectPath": "D:\\Documentos\\Code\\Unidad_3\\Unidad_3\\New\\New.csproj",
         "packagesPath": "C:\\Users\\jose5\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\code\\Unidad_3\\Unidad_3\\AVANZADO\\obj\\",
+        "outputPath": "D:\\Documentos\\Code\\Unidad_3\\Unidad_3\\New\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jose5\\AppData\\Roaming\\NuGet\\NuGet.Config"
