@@ -10,7 +10,7 @@
             for(int x = 0; x < 1; x++)
             {
                 Console.WriteLine("INGRESE SU NOMBRE: ");
-                namesList[x] = (Console.ReadLine());
+                namesList[x] = Console.ReadLine();
             }
             for(int i = 0; i <= 5; i++)
             {

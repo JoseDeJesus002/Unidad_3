@@ -1,0 +1,5 @@
+D:\Documentos\Code\Unidad_3\Unidad_3\Barcos\obj\Debug\net6.0\Barcos.csproj.AssemblyReference.cache
+D:\Documentos\Code\Unidad_3\Unidad_3\Barcos\obj\Debug\net6.0\Barcos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Code\Unidad_3\Unidad_3\Barcos\obj\Debug\net6.0\Barcos.AssemblyInfoInputs.cache
+D:\Documentos\Code\Unidad_3\Unidad_3\Barcos\obj\Debug\net6.0\Barcos.AssemblyInfo.cs
+D:\Documentos\Code\Unidad_3\Unidad_3\Barcos\obj\Debug\net6.0\Barcos.csproj.CoreCompileInputs.cache
